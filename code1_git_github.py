@@ -11,3 +11,6 @@ print(tabeau)
 #importation d'une base de donnée
 DataFrame = pd.read_excel("s:/CERTI/SEMAINE_2/PYTHON_POUR_L_ANALYSE_DES_DONNES/python_data_analyst/jour_04/vente_magasin_analyse.xlsx")
 print(DataFrame.head())
+
+
+print(f"Ajout d'un nouveau commit aprés avoir changer de fichier")
